@@ -2,6 +2,8 @@
 
 **File Info** is a fast, lightweight native desktop utility for **macOS** and **Linux** that lets you select or drag-and-drop any file to inspect its text content (`.txt`, `.csv`, `.json`, `.xml`, `.md`, `.log`, etc.) and view a concise **File Summary** (Total Size, Total number of words, and File type).
 
+![File Info Preview](file_info_screen_shot.png)
+
 > **Note:** This repository serves as the public **Releases-Only** distribution channel. Pre-built installers are available on the [GitHub Releases](../../releases/latest) page.
 
 ---
